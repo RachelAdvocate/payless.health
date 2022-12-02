@@ -141,7 +141,7 @@ export default function MyApp(props) {
         Skip to content
       </a>
       <TopNav>
-        <Link href="/handbook/getting-started">Handbook</Link>
+        <Link href="https://handbook.payless.health">Handbook</Link>
         <Link href="https://github.com/onefact/payless.health">GitHub</Link>
         <Link href="https://github.com/onefact/payless.health/discussions">
           Community
@@ -161,7 +161,7 @@ export default function MyApp(props) {
       </div>
       <div className="footer-bar">
         <Footer landing={isLandingPage}>
-          <Link href="/handbook/getting-started">Handbook</Link>
+          <Link href="https://handbook.payless.health">Handbook</Link>
           <Link href="https://github.com/onefact/payless.health">GitHub</Link>
           <Link href="https://github.com/onefact/payless.health/discussions">
             Community

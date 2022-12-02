@@ -7,10 +7,10 @@ description: From patients to doctors, Payless.health is a free platform to help
 
 {% typewriter /%}
 
-> From patients to doctors, Payless.health is a free platform to help you understand how much you will pay.
+> From patients to doctors, Payless.health is a free platform to help you understand how much you will pay. We are currently building the search engine and data platform. In the meantime, you can:
 
 
-[View handbook](/handbook/getting-started) {% .primary %}
+[View handbook](https://handbook.payless.health) {% .primary %}
 
 {% /section %}
 
@@ -65,7 +65,7 @@ description: From patients to doctors, Payless.health is a free platform to help
 
 Use the search engine at the top to get started. Try searching for a medication, procedure, treatment, hospital nearby.
 
-[Explore the Payless Health Handbook](/handbook/getting-started) {% .primary %}
+[Explore the Payless Health Handbook](https://handbook.payless.health) {% .primary %}
 
 {% /item %}
 
