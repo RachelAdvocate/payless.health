@@ -135,7 +135,7 @@ export function Footer({ children: links, landing }) {
       <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">
        CC BY-SA 4.0
       </a>
-      {' '}by the One Fact Foundation, a 501c3 nonprofit.
+      {' '}by the One Fact Foundation, a 501c3 nonprofit. The Payless Health project is supported by a grant from the Brown Institute for Media Innovation at Columbia Journalism School and Stanford Engineering School.
       <style jsx>
         {`
           .disclaimer {
