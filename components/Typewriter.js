@@ -113,7 +113,7 @@ export function Typewriter() {
             <br />
             <Swapper
               before="{% toolchain %}"
-              after="search engine and handbook."
+              after="search engine and help pages."
               onEnd={setDone}
             />
           </>
